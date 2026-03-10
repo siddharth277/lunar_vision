@@ -1,0 +1,8 @@
+torch
+torchvision
+gradio
+numpy
+opencv-python
+pandas
+matplotlib
+Pillow

@@ -1,0 +1,7 @@
+path: ./Dataset
+
+train: train/images
+val: valid/images
+
+nc: 2
+names: ['crater', 'boulder']
